@@ -71,4 +71,13 @@
 <h5>Deployment is done using Streamlit</h5>
 <p>
   Website Link: https://ankitgarg.streamlit.app/
+
+  <details>
+    <summary>WebApp</summary>
+    <img src="https://github.com/ankitgarg503/Sentiment-Analysis-of-financial-news/assets/114798433/769f231a-c25c-4489-83e3-fa4c04cc8e5b" alt="image" width=500><br><br>
+    <img src="https://github.com/ankitgarg503/Sentiment-Analysis-of-financial-news/assets/114798433/c2d9f607-52fd-4e98-ba79-2c99221d5a4a" alt="image" width=500><br><br>
+    <img src="https://github.com/ankitgarg503/Sentiment-Analysis-of-financial-news/assets/114798433/5da7386f-1ded-4744-ac0b-dac63791f5ca" alt="image" width=500><br><br>
+    <img src="https://github.com/ankitgarg503/Sentiment-Analysis-of-financial-news/assets/114798433/54bf4b8b-3699-4e94-9be8-00f8589ebbf8" alt="image" width=500><br>
+  </details>
+
 </p>
